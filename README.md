@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+🎥 [banner][banner.png]
 
 [website]: https://rajeevranjan.co
 [twitter]: https://twitter.com/rajeevkumar0301
