@@ -1,8 +1,5 @@
 ### Hi is what i am working on!!  👋
 
-<!--
-**rajeev-ranjan-au6/rajeev-ranjan-au6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... competitive programming.
