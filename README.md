@@ -1,4 +1,4 @@
-[![bg][banner]][website]
+[![bg][banner]]
 
 ### Hi is what i am working on!!  👋
 
