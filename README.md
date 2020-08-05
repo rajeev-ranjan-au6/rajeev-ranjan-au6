@@ -1,4 +1,4 @@
-[![bg][banner]]
+[banner]: 
 
 ### Hi is what i am working on!!  👋
 
@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Rajeev Ranjan
 - ⚡ Fun fact: ... coding lover
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [website][website]
+🐦 [twitter][twitter]  
+📷 [instagram][instagram]
 👔 [linkedin][linkedin]
-🎥 [banner][banner.png]
 
 [website]: https://rajeevranjan.co
 [twitter]: https://twitter.com/rajeevkumar0301
