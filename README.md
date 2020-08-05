@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... competitive programming.
+- 🔭 I’m currently working on ... competitive programming and frontend developer.
 - 🌱 I’m currently learning ... React.js / Algorithms
 - 👯 I’m looking to collaborate on ... c++ / java
 - 🤔 I’m looking for help with ... React.js
