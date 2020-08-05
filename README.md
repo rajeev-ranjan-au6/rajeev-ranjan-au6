@@ -1,4 +1,3 @@
-[banner]:
 
 ### Hi is what i am working on!!  👋
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 🐦 [twitter][twitter]  
 📷 [instagram][instagram]
 👔 [linkedin][linkedin]
-[banner]: https://github.com/rajeev-ranjan-au6/rajeev-ranjan-au6/blob/master/banner.png
+
 [website]: https://rajeevranjan.co
 [twitter]: https://twitter.com/rajeevkumar0301
 [instagram]: https://www.instagram.com/rajeevranjan1013/
