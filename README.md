@@ -1,4 +1,4 @@
-[banner]: 
+[banner]: https://github.com/rajeev-ranjan-au6/rajeev-ranjan-au6/blob/master/banner.png
 
 ### Hi is what i am working on!!  👋
 
