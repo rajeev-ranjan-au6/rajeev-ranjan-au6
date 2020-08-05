@@ -7,6 +7,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... c++ / java
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://rajeevranjan.co
+- 📫 How to reach me: ... [mail.me] cs19rajeev@gmail.com
 - 😄 Pronouns: ... Rajeev Ranjan
 - ⚡ Fun fact: ... coding lover
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://rajeevranjan.co
+[twitter]: https://twitter.com/rajeevkumar0301
+[instagram]: https://www.instagram.com/rajeevranjan1013/
+[linkedin]: https://www.linkedin.com/in/rajeev-ranjan-691043111/
