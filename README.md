@@ -11,15 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Rajeev Ranjan
 - ⚡ Fun fact: ... coding lover
 
-🏡 [website][website]
-🐦 [twitter][twitter]  
-📷 [instagram][instagram]
-👔 [linkedin][linkedin]
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] **|** 
 
 [website]: https://rajeevranjan.co
-
 [twitter]: https://twitter.com/rajeevkumar0301
-
 [instagram]: https://www.instagram.com/rajeevranjan1013/
-
 [linkedin]: https://www.linkedin.com/in/rajeev-ranjan-691043111/
