@@ -1,5 +1,5 @@
 ### Hi I'm Rajeev Ranjan!!  👋
-### I'm a Developer, Motivational Speaker!
+### I'm a Developer and Motivational Speaker!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... competitive programming and frontend developer.
